@@ -1,0 +1,15 @@
+.right_sidebar {
+  position: absolute;
+  right: 0;
+  top: 550px;
+  color: grey;
+  width: 300px;
+  position: fixed;
+}
+.right_sidebar img {
+  height: 45px;
+  width: 45px;
+  position: absolute;
+  top: -510px;
+  right: 240px;
+}

@@ -1,0 +1,13 @@
+.privacy-container{
+    position:absolute;
+    top:100px;
+    
+    width: 1000px;
+    left:15%;
+    background-color: #f7f7f7;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;justify-content: center;
+    height:1100px;
+}
